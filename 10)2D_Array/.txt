@@ -1,0 +1,7 @@
+2D array formula for memeory location
+
+
+formula = c* i +j
+
+i is row number. 
+j is column number.
