@@ -13,4 +13,4 @@ int main()
         cout<<"Array initialized successfully"<<endl;
 
         return 0;
-    }
+    }   

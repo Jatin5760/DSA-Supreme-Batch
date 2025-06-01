@@ -1,0 +1,20 @@
+jab bhi apki bigger problem ka solution depend karega choti and same type ki problem mai then waha recurssion lagega.
+
+recurssion mai theen cheeze hai
+1) Base case
+2) Processing
+3) Recurssion relation
+
+Recursing ka ek recurssion call stack bhi banta hai.
+
+
+Tail Recurssion mai sabse pehele base case hoga then processing then recurssive relation hoga.
+
+Head Recurssion mai sabse pehele base case hoga then recurssive relation hoga then processing hogi.
+
+Magical line - ek case tum solve kardo baki recurssion sambhal lega.
+
+
+DP and recurssion ka famous pattern - Include or exclude patter.
+
+Ek aur pattern hai jisme elements par for loop karke call marte hai.  
