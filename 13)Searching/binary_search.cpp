@@ -26,6 +26,7 @@ int binarySearch(int arr[], int size, int target)
                 mid = s+(e-s)/2;
             }
 
+
     return -1;
     }
 
