@@ -30,6 +30,7 @@ int binarySearch(int arr[], int size, int target)
     return -1;
     }
 
+// This is the main of program
 int main()
     {
         int arr[] = {2,4,6,8,10,12,14};
