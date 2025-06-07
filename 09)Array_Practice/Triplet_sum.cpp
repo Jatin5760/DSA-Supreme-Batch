@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+
+// Acha question tha.
 int pairSum(int arr[], int size)
     {
         for(int i = 0; i<size; i++)
