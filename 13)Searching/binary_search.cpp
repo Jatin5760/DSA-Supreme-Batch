@@ -49,3 +49,6 @@ int main()
                 cout<<"Target found at "<<result<<endl;
             }
     }
+
+
+// Sample commit hai
