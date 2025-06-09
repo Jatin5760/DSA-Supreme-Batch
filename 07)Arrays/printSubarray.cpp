@@ -15,3 +15,6 @@ int main(){
     }
     return 0;
 }
+
+
+// Prting the subarray for this array
