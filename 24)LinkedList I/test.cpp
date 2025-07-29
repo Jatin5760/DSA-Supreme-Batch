@@ -111,7 +111,7 @@
 using namespace std;
 class Node{
     public:
-    int data;
+    int data;       
     Node* next;
     Node(int value){
         data = value;
