@@ -17,12 +17,12 @@ class Node
     };
 int main()
     {
-        /* Static way to assign data
+        //Static way to assign data
 
-            Node A1;
-            A1.data = 4;
-            A1.data = NULL;
-        */
+            // Node A1;
+            // A1.data = 4;
+            // A1.data = NULL;
+        
 
         /* Dynamic way to allocate memory
 
