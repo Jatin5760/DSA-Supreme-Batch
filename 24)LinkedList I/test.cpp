@@ -118,15 +118,15 @@ class Node{
         next = NULL;
     }
 };
-Node* CreateLLUsingRecurr(int arr[], int size, int index){
+Node* CreateLLUsingRecurr(int arr[], int size, int index, Node* prev){
     // Base Case
     if(index == size){
-        return NULL;
+        return prev;
     }
     Node* Temp;
     Temp = new Node(arr[index]);
-    Temp->next = CreateLLUsingRecurr(arr, size, index+1);
-    return Temp;
+    Temp->next = prev;
+    return CreateLLUsingRecurr(arr, size, index + 1, Temp);
 };
 int main(){
     Node* Head;
@@ -134,7 +134,7 @@ int main(){
     int arr[] = {2,4,6,8,10};
     int size = 5;
     int index = 0;
-    Head = CreateLLUsingRecurr(arr, size, index);
+    Head = CreateLLUsingRecurr(arr, size, index, Head);
     Node* Temp = Head;
     while(Temp!=NULL){
         cout<<Temp->data<<" ";
