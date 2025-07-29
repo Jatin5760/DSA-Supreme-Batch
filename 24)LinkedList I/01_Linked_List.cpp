@@ -37,7 +37,5 @@ int main()
             Node *head;
             head = new Node(4);
         */
-       
-        
         return 0;
     }
