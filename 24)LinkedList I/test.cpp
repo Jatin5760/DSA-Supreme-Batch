@@ -155,11 +155,41 @@ class Node{
         next = NULL;
     }
 };
+Node* Create(int arr[], int size, int index){
+        // Base Case
+        if(index ==  size){
+            return NULL;
+        }
+        Node* Temp;
+        Temp = new Node(arr[index]);
+        Temp->next = Create(arr,size, index + 1);
+        return Temp;
+};
 int main(){
     Node* Head;
     Head = NULL;
-
     int arr[] = {2,4,6,8,10};
+    Head = Create(arr, 5, 0);
+
+    // Insert at Particular position
+    int x = 3;
+    int value = 30;
+    Node* temp = Head;
+    x--;
+
+    while(x--){
+        temp = temp->next;
+    }
+
+    Node* temp2 = new Node(value);
+    temp2->next = temp->next;
     
+
+
+    Node* Temp = Head;
+    while(Temp){
+        cout<<Temp->data<<" ";
+        Temp = Temp->next;
+    }
     return 0;
 }
