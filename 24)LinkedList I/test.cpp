@@ -14,9 +14,25 @@ class Node{
 int main(){
 
     Node* Head;
-    Head = new Node(5);
+    Head = NULL;
 
-    cout<< Head;
+    int arr[] = {2,4,6,8,10};
 
+    for(int i = 0; i< 5; i++){
+        if(Head == NULL){
+            Head = new Node(arr[i]);
+        }
+        else{
+            Node* Temp;
+            Temp = new Node(arr[i]);
+            Temp->next = Head;
+            Head = Temp;
+        }
+    }
+    Node* Print = Head;
+    while(Print != NULL){
+        cout<< Print->data<<" ";
+        Print = Print->next;
+    }
     return 0;
 }
