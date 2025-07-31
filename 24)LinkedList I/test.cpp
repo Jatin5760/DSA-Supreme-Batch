@@ -144,48 +144,83 @@
 // }
 
 // Insert at particular point
+// // #include<iostream>
+// // using namespace std;
+// // class Node{
+// //     public:
+// //     int data;
+// //     Node* next;
+// //     Node(int value){
+// //         data = value;
+// //         next = NULL;
+// //     }
+// // };
+// // Node* Create(int arr[], int size, int index){
+// //         // Base Case
+// //         if(index ==  size){
+// //             return NULL;
+// //         }
+// //         Node* Temp;
+// //         Temp = new Node(arr[index]);
+// //         Temp->next = Create(arr,size, index + 1);
+// //         return Temp;
+// // };
+// // int main(){
+//     Node* Head;
+//     Head = NULL;
+//     int arr[] = {2,4,6,8,10};
+//     Head = Create(arr, 5, 0);
+//     // Insert at Particular position
+//     int x = 3;
+//     int value = 30;
+//     Node* temp = Head;
+//     x--;
+//     while(x--){
+//         temp = temp->next;
+//     }
+//     Node* temp2 = new Node(value);
+//     temp2->next = temp->next;
+//     temp->next = temp2;
+//     Node* Temp = Head;
+//     while(Temp){
+//         cout<<Temp->data<<" ";
+//         Temp = Temp->next;
+//     }
+//     return 0;
+// }
+
+// Delete a Node at start
 #include<iostream>
 using namespace std;
 class Node{
     public:
     int data;
     Node* next;
+
     Node(int value){
         data = value;
-        next = NULL;
+        next= NULL;
     }
 };
-Node* Create(int arr[], int size, int index){
-        // Base Case
-        if(index ==  size){
-            return NULL;
-        }
-        Node* Temp;
-        Temp = new Node(arr[index]);
-        Temp->next = Create(arr,size, index + 1);
-        return Temp;
+Node* CreateLL(int arr[], int index, int size){
+    // Base Case
+    if(index == size){
+        return NULL;
+    }
+
+    Node* Temp;
+    Temp = new Node(arr[index]);
+    Temp->next = CreateLL(arr, index + 1, size);
+
+    return Temp;
 };
 int main(){
     Node* Head;
     Head = NULL;
+
     int arr[] = {2,4,6,8,10};
-    Head = Create(arr, 5, 0);
 
-    // Insert at Particular position
-    int x = 3;
-    int value = 30;
-    Node* temp = Head;
-    x--;
-
-    while(x--){
-        temp = temp->next;
-    }
-
-    Node* temp2 = new Node(value);
-    temp2->next = temp->next;
-    temp->next = temp2;
-
-
+    Head = CreateLL(arr,0, 5);
     Node* Temp = Head;
     while(Temp){
         cout<<Temp->data<<" ";
