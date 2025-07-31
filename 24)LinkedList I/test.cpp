@@ -183,7 +183,7 @@ int main(){
 
     Node* temp2 = new Node(value);
     temp2->next = temp->next;
-    
+    temp->next = temp2;
 
 
     Node* Temp = Head;
