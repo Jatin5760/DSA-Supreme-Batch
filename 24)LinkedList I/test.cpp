@@ -221,6 +221,13 @@ int main(){
     int arr[] = {2,4,6,8,10};
 
     Head = CreateLL(arr,0, 5);
+
+    if(Head!=NULL){
+        Node* temp = Head;
+        Head = Head->next;
+        delete temp;
+    }
+
     Node* Temp = Head;
     while(Temp){
         cout<<Temp->data<<" ";
