@@ -1,4 +1,4 @@
-#include<iostream>
+ #include<iostream>
 using namespace std;
 class Node
     {
@@ -39,7 +39,7 @@ int main()
         // int position = 3;
         // Node* curr = Head;
         // Node* prev = NULL;
-        // position--;
+        // position--; 
 
         // while(position--)
         //     {
