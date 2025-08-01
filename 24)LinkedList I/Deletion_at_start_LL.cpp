@@ -64,7 +64,7 @@ int main()
 
                 if(Head->next == NULL)
                     {
-                        Node* Temp;
+                        Node* Temp = Head;
                         Head = NULL;
                         delete Temp;
                     }

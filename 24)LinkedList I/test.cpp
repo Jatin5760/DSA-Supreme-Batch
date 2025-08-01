@@ -222,11 +222,12 @@ int main(){
 
     Head = CreateLL(arr,0, 5);
 
-    if(Head!=NULL){
-        Node* temp = Head;
-        Head = Head->next;
-        delete temp;
-    }
+    // Deletion at start
+    // if(Head!=NULL){
+    //     Node* temp = Head;
+    //     Head = Head->next;
+    //     delete temp;
+    // }
 
     Node* Temp = Head;
     while(Temp){
