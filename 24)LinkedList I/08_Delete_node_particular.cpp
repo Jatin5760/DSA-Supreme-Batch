@@ -53,7 +53,7 @@ int main()
 
 
         //Deleting a particular node in LL By handling all cases.
-        int x = 1;
+        int x = 3;
         if(x == 1)
             {
                 Node* temp = Head;
