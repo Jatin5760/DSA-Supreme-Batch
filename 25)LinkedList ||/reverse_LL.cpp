@@ -66,3 +66,6 @@ ListNode* reverse(ListNode* curr, ListNode* prev)
     }
     
 */
+
+// Method 4:
+
