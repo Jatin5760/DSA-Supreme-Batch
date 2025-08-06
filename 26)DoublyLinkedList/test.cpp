@@ -21,7 +21,9 @@ Node* CreateDLL(int arr[], int index, int size, Node* back){
     }
     Node* temp = new Node(arr[index])
     temp->prev = back;
-    CreateDLL()
+    temp->next = CreateDLL(arr, index + 1, size, temp); 
+
+    return temp; 
 }
 int main(){
 
