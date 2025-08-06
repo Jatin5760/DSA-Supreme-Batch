@@ -24,7 +24,7 @@ int main()
     if(head == NULL)
         {
             head = new Node(5);
-        }
+        } 
     // LL  exist
     else
     {
