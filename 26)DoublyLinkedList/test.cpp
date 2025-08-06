@@ -14,6 +14,15 @@ class Node{
         prev = NULL;
     }
 };
+Node* CreateDLL(int arr[], int index, int size, Node* back){
+    // Base condition
+    if(index == size){
+        return NULL;
+    }
+    Node* temp = new Node(arr[index])
+    temp->prev = back;
+    CreateDLL()
+}
 int main(){
 
     
