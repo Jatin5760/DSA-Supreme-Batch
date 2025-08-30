@@ -30,16 +30,16 @@ public:
 
     void push(int x)
     {
-        if (isFull())
-        {
-            cout << "Queue is overflow";
-            return;
-        }
-        else if (isEmpty())
+        if (isEmpty())
         {
             cout<<"Pushed "<< x <<" into the Queue"<<endl;
             front = rear = 0;
             arr[0] = x;
+            return;
+        }
+        else if (isFull())
+        {
+            cout << "Queue is overflow";
             return;
         }
         else
@@ -53,7 +53,7 @@ public:
     {
         if (isEmpty())
         {
-            cout << "Queue is underflow";
+            cout << "Queue is Empty";
             return;
         }
         else
@@ -89,6 +89,8 @@ int main()
     q.push(5);
     q.push(15);
     q.push(51);
-
-    
+    q.pop();
+    q.pop();
+    q.pop();
+    q.pop();
 }
