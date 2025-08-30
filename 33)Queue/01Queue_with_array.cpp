@@ -53,7 +53,7 @@ public:
     {
         if (isEmpty())
         {
-            cout << "Queue is Empty";
+            cout << "Queue is Empty"<<endl;
             return;
         }
         else
@@ -74,7 +74,7 @@ public:
     
     int start(){
         if(isEmpty()){
-            cout<<"Queue is Empty";
+            cout<<"Queue is Empty"<<endl;
             return -1;
         }
         else{
@@ -93,4 +93,8 @@ int main()
     q.pop();
     q.pop();
     q.pop();
+    int x = q.start();
+    if(!q.isEmpty()){
+        cout<<x<<endl;
+    }
 }
