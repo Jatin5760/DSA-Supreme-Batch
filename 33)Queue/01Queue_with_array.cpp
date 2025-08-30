@@ -25,7 +25,7 @@ public:
     }
     bool isFull()
     {
-        return rear == size - 1;
+        return (rear + 1) % size == front;
     }
 
     void push(int x)
@@ -39,12 +39,13 @@ public:
         }
         else if (isFull())
         {
-            cout << "Queue is overflow";
+            cout << "Queue is overflow"<<endl;
             return;
         }
         else
         {
-            rear = rear + 1;
+            //rear = rear + 1;
+            rear = (rear + 1) % size;
             arr[rear] = x;
             cout<<"Pushed "<< x <<" into the Queue"<<endl;
         }
@@ -67,7 +68,8 @@ public:
             else
             {
                 cout<<"Popped "<< arr[front] <<" from the Queue"<<endl;
-                front = front + 1;
+                //front = front + 1;
+                front = (front + 1) % size;
             }
         }
     }
@@ -89,9 +91,11 @@ int main()
     q.push(5);
     q.push(15);
     q.push(51);
+    q.push(125);
     q.pop();
-    q.pop();
-    q.pop();
+    q.push(511);
+    q.push(38);
+    q.push(97);
     q.pop();
     int x = q.start();
     if(!q.isEmpty()){
