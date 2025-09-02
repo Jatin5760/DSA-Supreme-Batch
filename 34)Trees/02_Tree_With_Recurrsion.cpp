@@ -10,6 +10,32 @@ class Node{
         left = right = NULL;
     }
 };
+void preorder(Node* root){
+    if(root == NULL){
+        return;
+    }
+    cout<<root->data<<" ";
+    preorder(root->left);
+    preorder(root->right);
+};
+
+void inorder(Node* root){
+    if(root == NULL){
+        return;
+    }
+    preorder(root->left);
+    cout<<root->data<<" ";
+    preorder(root->right);
+};
+
+void postorder(Node* root){
+    if(root == NULL){
+        return;
+    }
+    preorder(root->left);
+    preorder(root->right);
+    cout<<root->data<<" ";
+};
 
 Node* binaryTree(){
     int x;
@@ -31,7 +57,7 @@ Node* binaryTree(){
     return temp;
 }
 int main(){
-    
+
     cout<<"Enter the root Node: ";
     Node* root;
     root = binaryTree();
