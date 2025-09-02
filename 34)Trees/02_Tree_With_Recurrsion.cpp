@@ -23,17 +23,17 @@ void inorder(Node* root){
     if(root == NULL){
         return;
     }
-    preorder(root->left);
+    inorder(root->left);
     cout<<root->data<<" ";
-    preorder(root->right);
+    inorder(root->right);
 };
 
 void postorder(Node* root){
     if(root == NULL){
         return;
     }
-    preorder(root->left);
-    preorder(root->right);
+    postorder(root->left);
+    postorder(root->right);
     cout<<root->data<<" ";
 };
 
@@ -61,5 +61,12 @@ int main(){
     cout<<"Enter the root Node: ";
     Node* root;
     root = binaryTree();
+
+    cout<<"Preorder: "<<endl;
+    preorder(root);
+    cout<<"inorder: "<<endl;
+    inorder(root);
+    cout<<"Postorder: "<<endl;
+    postorder(root);
     return 0;
 }
