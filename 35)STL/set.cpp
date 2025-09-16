@@ -2,6 +2,16 @@
 #include<bits/stdc++.h>
 
 using namespace std;
+
+class Person{
+    public:
+        int age;
+        string name; 
+
+    bool operator < (const Person &other) const{
+        return age < other.age;
+    }
+};
 int main(){
 
     // SET - Stores only unique value
@@ -48,7 +58,7 @@ int main(){
 
     cout<<endl;
 
-    // find
+    // find - returns the iterator of that number 
     if(s.find(20) !=s.end()){
         cout<<"Present"<<endl;
     }
@@ -56,13 +66,29 @@ int main(){
         cout<<"Absent"<<endl;
     }
 
-    // count
+    // count returns the count of the number
     if(s.count(200)){
         cout<<"Present\n";
     }
     else{
         cout<<"Absent\n";
     }
+
+
+    set<Person>s2;
+    Person p1, p2, p3;
+    p1.age = 10, p1.name = "Jatin";
+    p2.age = 30, p2.name = "Lol";
+    p3.age = 40, p3.name = "Lol2";
+
+    s2.insert(p1);
+    s2.insert(p2);
+    s2.insert(p3);
+
+    for(auto it =  s2.begin(); it!= s2.end(); it++){
+        cout<<(*it).age<<" "<<(*it).name<<endl;
+    }
+
 
     return 0;
 }
