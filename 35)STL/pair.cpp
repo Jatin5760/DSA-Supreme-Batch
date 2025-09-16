@@ -17,11 +17,13 @@ int main(){
 
 
     pair<string,pair<int,int> > p1;
+    //p1 = make_pair("Jatin", make_pair(22,75));
+
     p1.first = "Jatin";
     p1.second.first = 22;
     p1.second.second = 75;
 
-    cout<<p1.first<<" "<<p1.second.first<<" "<<p1.second.second<<endl;
+    //cout<<p1.first<<" "<<p1.second.first<<" "<<p1.second.second<<endl;
 
     return 0;
 }
