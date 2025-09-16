@@ -5,6 +5,9 @@ int main(){
 
     // ye doubly linkedlist ka implementation hai under the hood
     list<int>l1;
+
+    // 15 20 30 40 50 60 70 
+    // l.end() 70 ke baad wale ko print karega that is why for loop mai it!=l.end() likha hai hamne.
     l1.push_back(20);
     l1.push_back(30);
     l1.push_back(40);
