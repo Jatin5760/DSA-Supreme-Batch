@@ -31,7 +31,8 @@ int main(){
     }
 
 
-
-
-    
+    // Duplication in key is allowed
+    multimap<int, int> mp;
+    // mp[100] = 60; 
+    // Ye syntax allowed nhi hai because usko pata nhi chalega ki update karna hai yaa, create karna hai.
 }
