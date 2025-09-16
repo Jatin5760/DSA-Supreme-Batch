@@ -12,6 +12,7 @@ class Person{
         return age < other.age;
     }
 };
+
 int main(){
 
     // SET - Stores only unique value
@@ -84,6 +85,7 @@ int main(){
     s2.insert(p1);
     s2.insert(p2);
     s2.insert(p3);
+    s2.erase(p3);
 
     for(auto it =  s2.begin(); it!= s2.end(); it++){
         cout<<(*it).age<<" "<<(*it).name<<endl;
