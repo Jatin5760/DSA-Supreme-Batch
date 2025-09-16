@@ -24,7 +24,14 @@ int main(){
     }
 
 
+    cout<<m[200]<<endl; // 0 - key is not present
+    
+    if(m.count(200)){
+        cout<<m[200]<<" ";
+    }
 
 
-    return 0;
+
+
+    
 }
