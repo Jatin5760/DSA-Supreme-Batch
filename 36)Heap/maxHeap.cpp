@@ -48,7 +48,7 @@ class MaxHeap{
         int left = 2 * index + 1;
         int right = 2 * index + 2;
 
-        // Largest will store the index of element which is greater between parent left child and right child
+        // Largest will store the index of element which is greater between parent, left child and right child
 
         if(left < size && arr[left] > arr[largest]){
             largest = left;
@@ -91,11 +91,12 @@ int main(){
     H1.insert(4);
     H1.insert(14);
     H1.insert(11);
-    H1.Delete();
+    //H1.Delete();
     //H1.print();
     H1.insert(114);
     H1.insert(24);
     H1.insert(1);
     H1.insert(10);
+    H1.Delete();
     H1.print();
 }
