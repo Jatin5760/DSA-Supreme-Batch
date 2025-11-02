@@ -8,7 +8,8 @@ class Node
         int data;
         Node* next;
 
-        // Agar node create hi karna hai toh constructor ki madat se kar lete hai, Isko karne ke baad hame na toh static se allocate karna na hi dynamic se.
+        // Agar node create hi karna hai toh constructor ki madat se kar lete hai, 
+        //Isko karne ke baad hame na toh static se allocate karna na hi dynamic se.
         Node(int value)
             {
                 data = value;
