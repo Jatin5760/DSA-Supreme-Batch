@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1683-invalid-tweets) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
