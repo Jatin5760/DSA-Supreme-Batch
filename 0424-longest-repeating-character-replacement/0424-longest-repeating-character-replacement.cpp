@@ -12,7 +12,7 @@ public:
             freq[s[high] - 'A']++;
             max_freq = max(max_freq, freq[s[high] - 'A']);
 
-            while((high - low + 1) - max_freq > k){
+            if((high - low + 1) - max_freq > k){
                 freq[s[low] - 'A']--;
                 max_freq = 0;
                 for(int i = 0; i < 26; i++){
