@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0042-trapping-rain-water) |
 | [0643-maximum-average-subarray-i](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0918-maximum-sum-circular-subarray) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2104-sum-of-subarray-ranges) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
