@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0002-add-two-numbers) |
+| [0523-continuous-subarray-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0084-largest-rectangle-in-histogram) |
+| [0523-continuous-subarray-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0713-subarray-product-less-than-k) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0724-find-pivot-index) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0904-fruit-into-baskets) |
