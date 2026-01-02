@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0907-sum-of-subarray-minimums) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
