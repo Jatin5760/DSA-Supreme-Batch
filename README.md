@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0224-basic-calculator) |
+| [0509-fibonacci-number](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0227-basic-calculator-ii) |
+| [0509-fibonacci-number](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0085-maximal-rectangle) |
+| [0509-fibonacci-number](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0402-remove-k-digits) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
