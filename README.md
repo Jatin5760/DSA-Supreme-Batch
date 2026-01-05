@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0042-trapping-rain-water) |
+| [0344-reverse-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0227-basic-calculator-ii) |
+| [0344-reverse-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0424-longest-repeating-character-replacement) |
