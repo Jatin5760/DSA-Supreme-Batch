@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0085-maximal-rectangle) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
