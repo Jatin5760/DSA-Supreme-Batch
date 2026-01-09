@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0509-fibonacci-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0227-basic-calculator-ii) |
