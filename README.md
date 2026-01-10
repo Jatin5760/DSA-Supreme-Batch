@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0344-reverse-string) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0918-maximum-sum-circular-subarray) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
