@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0042-trapping-rain-water) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0424-longest-repeating-character-replacement) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0085-maximal-rectangle) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
 ## Greedy
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0046-permutations) |
