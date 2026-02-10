@@ -6,51 +6,62 @@
  *     ListNode() : val(0), next(nullptr) {}
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
+ * }; 
  */
 class Solution {
 public:
+    // ListNode* reverseLL(ListNode* curr, ListNode* prev){
+    //     // Base Case
+    //     if(curr == NULL){
+    //         return prev;
+    //     }
+    //     ListNode* future = curr->next;
+    //     curr->next = prev;
+    //     return reverseLL(future, curr);
+    // }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* dummyNode  = new ListNode(-1);
-        ListNode* curr = dummyNode;
-
-        ListNode* temp1 = l1;
-        ListNode* temp2 = l2;
         int carry = 0;
-        int sum = 0;
-
-        while(temp1 && temp2){
-            sum = temp1->val + temp2->val + carry;
-            curr->next = new ListNode(sum % 10);
-            curr = curr->next;
+        ListNode* curr1 = l1;
+        ListNode* curr2 = l2;
+        ListNode* ans = new ListNode(0);
+        ListNode* temp = ans;
+        while(curr1 != NULL && curr2 != NULL){
+            int sum = curr1->val + curr2->val + carry;
+            if(sum < 10){
+                temp->next = new ListNode(sum);
+            }else{
+                temp->next = new ListNode(sum % 10);
+            }
+            carry = sum / 10; 
+            curr1 = curr1->next;
+            curr2 = curr2->next;
+            temp = temp->next;
+        }
+        while(curr1){
+            int sum = curr1->val + carry;
+            if(sum < 10){
+                temp->next = new ListNode(sum);
+            }else{
+                temp->next = new ListNode(sum % 10);
+            }
             carry = sum / 10;
-            temp1 = temp1->next;
-            temp2 = temp2->next;
+            curr1 = curr1->next;
+            temp = temp->next;
         }
-
-        while(temp2){
-            sum = temp2->val + carry;
-            curr->next = new ListNode(sum % 10);
-            curr = curr->next;
+        while(curr2){
+            int sum = curr2->val + carry;
+            if(sum < 10){
+                temp->next = new ListNode(sum);
+            }else{
+                temp->next = new ListNode(sum % 10);
+            }
             carry = sum / 10;
-            temp2 = temp2->next;
+            curr2 = curr2->next;
+            temp = temp->next;
         }
-
-         while(temp1){
-            sum = temp1->val + carry;
-            curr->next = new ListNode(sum % 10);
-            curr = curr->next;
-            carry = sum / 10;
-            temp1 = temp1->next;
+        if(carry > 0){
+            temp->next = new ListNode(carry);
         }
-
-        while(carry){
-            curr->next = new ListNode(carry % 10);
-            curr = curr->next;
-            carry = carry / 10;
-        }
-
-        ListNode* head = dummyNode->next;
-        return head;
+        return ans->next;
     }
 };
