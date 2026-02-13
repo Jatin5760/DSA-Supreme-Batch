@@ -1,14 +1,27 @@
 class Solution {
 public:
-    int climbStairs(int n) {
-        if(n <=1) return 1;
-        int prev2 = 1;
-        int prev1 = 1;
-        for(int i = 2; i <= n; i++){
-            int curr = prev1 + prev2;
-            prev2 = prev1;
-            prev1 = curr;
+    int solve(int n, vector<int>& dp){
+        //  Base Case
+
+        if(n == 0){
+            return 1;
         }
-        return prev1;
+
+        if(n == 1){
+            return 1;
+        }
+
+        if(dp[n] != -1){
+            return dp[n];
+        }
+        
+        int ans = solve(n - 1, dp) + solve(n-2, dp);
+        dp[n] = ans;
+        return dp[n];
+    }
+    int climbStairs(int n) {
+        vector<int>dp(n + 1, -1);
+        int ans = solve(n, dp);
+        return ans;
     }
 };
