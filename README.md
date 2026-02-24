@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0088-merge-sorted-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0076-minimum-window-substring) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0070-climbing-stairs) |
