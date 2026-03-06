@@ -1,24 +1,49 @@
 class Solution {
 public:
-    bool solve(vector<int>& nums, int target, int index, vector<vector<int> >& dp){
-        // Base Case
-        if(target == 0){
-            return 1;
+// Memoization
+    // bool solve(vector<int>& nums, int target, int index, vector<vector<int> >& dp){
+    //     // Base Case
+    //     if(target == 0){
+    //         return 1;
+    //     }
+    //     int n = nums.size();
+    //     if(index >= n) return 0;
+    //     if(index < 0) return 0;
+    //     if(dp[index][target] != -1){
+    //         return dp[index][target];
+    //     }
+    //     bool include = 0;
+    //     if(nums[index] <= target){
+    //         include = solve(nums, target - nums[index], index + 1, dp);
+    //     }
+    //     bool exclude = solve(nums, target, index + 1, dp);
+    //     dp[index][target] = (include || exclude);
+    //     return dp[index][target];
+    // }
+
+
+
+// Tabulation
+    bool solve(vector<int>& nums, int target, int index){
+        vector<vector<int> > dp(nums.size()+1, vector<int>(target + 1, 0));
+        for(int i = 0; i < nums.size(); i++){
+            dp[i][0] = 1;
         }
         int n = nums.size();
-        if(index >= n) return 0;
-        if(index < 0) return 0;
-        if(dp[index][target] != -1){
-            return dp[index][target];
+        for(int index = n - 1; index >= 0; index--){
+            for(int t = 1; t <= target; t++){
+                bool include = 0;
+                if(nums[index] <= t && t-nums[index] >= 0){
+                    include = dp[index+1][t - nums[index]];
+                }
+                bool exclude = dp[index+1][t];
+                dp[index][t] = (include || exclude);
+            }
         }
-        bool include = 0;
-        if(nums[index] <= target){
-            include = solve(nums, target - nums[index], index + 1, dp);
-        }
-        bool exclude = solve(nums, target, index + 1, dp);
-        dp[index][target] = (include || exclude);
-        return dp[index][target];
+        return dp[0][target];
     }
+
+
 
     bool canPartition(vector<int>& nums) {
         int sum = 0;
@@ -28,8 +53,9 @@ public:
         if(sum % 2 != 0) return false;
         int target = sum / 2;
         int index = 0;
-        vector<vector<int>> dp(nums.size(), vector<int>(target + 1, -1));
-        bool ans = solve(nums, target, index, dp);
+        // vector<vector<int>> dp(nums.size(), vector<int>(target + 1, -1));
+        // bool ans = solve(nums, target, index, dp);
+        bool ans = solve(nums, target, index);
         return ans;
     }
 };
