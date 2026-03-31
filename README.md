@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0224-basic-calculator) |
@@ -334,10 +335,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0144-binary-tree-preorder-traversal) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0322-coin-change) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
