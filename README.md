@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0224-basic-calculator) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0543-diameter-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
