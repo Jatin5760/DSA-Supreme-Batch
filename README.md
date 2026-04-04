@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1004-max-consecutive-ones-iii) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0342-power-of-four) |
 ## Sorting
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
