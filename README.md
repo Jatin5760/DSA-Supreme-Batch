@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0617-merge-two-binary-trees) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0617-merge-two-binary-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -417,7 +419,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0617-merge-two-binary-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0958-check-completeness-of-a-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
