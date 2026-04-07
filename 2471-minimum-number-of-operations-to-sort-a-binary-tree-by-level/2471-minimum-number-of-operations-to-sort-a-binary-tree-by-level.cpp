@@ -14,20 +14,20 @@ public:
     int minSwaps(vector<int>& nums) {
     int n = nums.size();
     vector<pair<int,int>> v;
-    // value + original index
+    
     for(int i = 0 ; i < n ; i++){
         v.push_back({nums[i], i});
     }
-    // sort according to values
+    
     sort(v.begin(), v.end());
     int swaps = 0;
     for(int i = 0 ; i < n ; i++){
         int index = v[i].second;
-        // agar element wrong position pe hai
+        
         if(i != index){
             swaps++;
             swap(v[i], v[index]);
-            i--;   // same position recheck
+            i--;  
         }
     }
     return swaps;
