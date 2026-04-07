@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0912-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0872-leaf-similar-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0993-cousins-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0993-cousins-in-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0993-cousins-in-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
@@ -438,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0993-cousins-in-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## String Matching
