@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0402-remove-k-digits) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0617-merge-two-binary-trees) |
