@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    bool solve(TreeNode* root, int target, int& sum){
+    bool solve(TreeNode* root, int target, int sum){
         if(root == NULL){
             return false;
         }
@@ -25,7 +25,6 @@ public:
         }
         bool leftans = solve(root->left, target, sum);
         bool rightans = solve(root->right, target, sum);
-        sum -= root->val;
         return leftans || rightans;
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
