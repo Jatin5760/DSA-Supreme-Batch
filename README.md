@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0328-odd-even-linked-list) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0918-maximum-sum-circular-subarray) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0112-path-sum) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0112-path-sum) |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0450-delete-node-in-a-bst) |
