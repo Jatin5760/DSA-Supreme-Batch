@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2104-sum-of-subarray-ranges) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -546,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
