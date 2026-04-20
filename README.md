@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0227-basic-calculator-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0213-house-robber-ii) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0102-binary-tree-level-order-traversal) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0102-binary-tree-level-order-traversal) |
@@ -567,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
