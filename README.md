@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0416-partition-equal-subset-sum) |
+| [0502-ipo](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0560-subarray-sum-equals-k) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0402-remove-k-digits) |
+| [0502-ipo](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0767-reorganize-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1382-balance-a-binary-search-tree) |
 ## Memoization
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1046-last-stone-weight) |
