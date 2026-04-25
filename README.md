@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0416-partition-equal-subset-sum) |
 | [0502-ipo](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0523-continuous-subarray-sum) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0085-maximal-rectangle) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
 ## Greedy
 |  |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0767-reorganize-string) |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0767-reorganize-string) |
