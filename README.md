@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0658-find-k-closest-elements) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0735-asteroid-collision) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0930-binary-subarrays-with-sum) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -384,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1046-last-stone-weight) |
