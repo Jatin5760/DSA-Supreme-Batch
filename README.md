@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1248-count-number-of-nice-subarrays) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1338-reduce-array-size-to-the-half) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1652-defuse-the-bomb) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1248-count-number-of-nice-subarrays) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1338-reduce-array-size-to-the-half) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0767-reorganize-string) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1338-reduce-array-size-to-the-half) |
 | [1382-balance-a-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1382-balance-a-binary-search-tree) |
 ## Memoization
 |  |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1338-reduce-array-size-to-the-half) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1046-last-stone-weight) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1338-reduce-array-size-to-the-half) |
 ## Merge Sort
 |  |
 | ------- |
