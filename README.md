@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0088-merge-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0451-sort-characters-by-frequency) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0451-sort-characters-by-frequency) |
@@ -658,4 +662,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
