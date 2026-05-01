@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1652-defuse-the-bomb) |
+| [1675-minimize-deviation-in-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1675-minimize-deviation-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2104-sum-of-subarray-ranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1382-balance-a-binary-search-tree) |
 | [1383-maximum-performance-of-a-team](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1383-maximum-performance-of-a-team) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1675-minimize-deviation-in-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1675-minimize-deviation-in-array) |
 ## Memoization
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1046-last-stone-weight) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1338-reduce-array-size-to-the-half) |
 | [1383-maximum-performance-of-a-team](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1383-maximum-performance-of-a-team) |
+| [1675-minimize-deviation-in-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1675-minimize-deviation-in-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -670,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0295-find-median-from-data-stream) |
+## Ordered Set
+|  |
+| ------- |
+| [1675-minimize-deviation-in-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1675-minimize-deviation-in-array) |
 <!---LeetCode Topics End-->
