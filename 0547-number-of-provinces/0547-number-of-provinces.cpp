@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     void dfs(vector<vector<int>>& isConnected, unordered_map<int, bool>& visited, int u){
         visited[u] = true;
         for(int v = 0; v < isConnected.size(); v++){
