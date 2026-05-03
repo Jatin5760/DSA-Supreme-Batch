@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0643-maximum-average-subarray-i) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0918-maximum-sum-circular-subarray) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0637-average-of-levels-in-binary-tree) |
