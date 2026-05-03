@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0300-longest-increasing-subsequence) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0994-rotting-oranges) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0547-number-of-provinces) |
@@ -689,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
