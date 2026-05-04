@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1338-reduce-array-size-to-the-half) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1020-number-of-enclaves) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
 ## Greedy
 |  |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1020-number-of-enclaves) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
 ## Tree
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
