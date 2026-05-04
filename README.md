@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0733-flood-fill) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1020-number-of-enclaves) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0669-trim-a-binary-search-tree) |
+| [0695-max-area-of-island](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0814-binary-tree-pruning) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -708,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
