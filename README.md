@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1162-as-far-from-land-as-possible) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1338-reduce-array-size-to-the-half) |
 | [1383-maximum-performance-of-a-team](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1383-maximum-performance-of-a-team) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0918-maximum-sum-circular-subarray) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1162-as-far-from-land-as-possible](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1162-as-far-from-land-as-possible) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1162-as-far-from-land-as-possible) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
 ## Greedy
 |  |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1162-as-far-from-land-as-possible) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
 ## Tree
