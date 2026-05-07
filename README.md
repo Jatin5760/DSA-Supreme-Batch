@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1382-balance-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1162-as-far-from-land-as-possible) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1971-find-if-path-exists-in-graph) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
 ## Tree
@@ -721,8 +723,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1020-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
