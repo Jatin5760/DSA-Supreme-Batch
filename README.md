@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1652-defuse-the-bomb](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1652-defuse-the-bomb) |
 | [1675-minimize-deviation-in-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1675-minimize-deviation-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2104-sum-of-subarray-ranges) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1162-as-far-from-land-as-possible) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
 ## Greedy
 |  |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1162-as-far-from-land-as-possible) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1971-find-if-path-exists-in-graph) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
@@ -726,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
