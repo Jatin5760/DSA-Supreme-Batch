@@ -27,9 +27,7 @@ public:
     bool containsCycle(vector<vector<char>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-
         vector<vector<bool>> visited(n, vector<bool>(m, false));
-
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
                 if(!visited[i][j] && dfs(grid, visited, i, j, -1, -1)){
