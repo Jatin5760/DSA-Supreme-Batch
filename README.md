@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0872-leaf-similar-trees) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -740,9 +742,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0684-redundant-connection) |
+| [0802-find-eventual-safe-states](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
