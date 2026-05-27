@@ -1,23 +1,33 @@
 class Solution {
+    int dx[4] = {-1, 0, 1, 0};
+    int dy[4] = {0, 1, 0, -1};
 public:
-    void dfs(vector<vector<int>>& image, int i, int j, int newColor, int ogColor){
-        if(i < 0 || j < 0 || i >= image.size() || j >= image[0].size() || image[i][j] != ogColor){
-            return;
+    void dfs(vector<vector<int>>& image, int sr, int sc, int color, int prevColor){
+        int n = image.size();
+        int m = image[0].size();
+        image[sr][sc] = color;
+        for(int k = 0; k < 4; k++){
+            int ni = sr + dx[k];
+            int nj = sc + dy[k];
+
+            if(ni >=0 && nj >= 0 && ni < n && nj < m && image[ni][nj] == prevColor){
+                image[ni][nj] = color;
+                dfs(image, ni, nj, color, prevColor);
+            }
         }
-
-        image[i][j] = newColor;
-
-        dfs(image, i-1, j, newColor, ogColor);
-        dfs(image, i, j+1, newColor, ogColor);
-        dfs(image, i+1, j, newColor, ogColor);
-        dfs(image, i, j-1, newColor, ogColor);
     }
-
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int ogColor = image[sr][sc];
-        if(ogColor == color) return image; 
-
-        dfs(image, sr, sc, color, ogColor);
+        int n = image.size();
+        int m = image[0].size();
+        int prevColor = image[sr][sc];
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                if(image[sr][sc] != color){
+                    image[sr][sc] = color;
+                    dfs(image, sr, sc, color, prevColor);
+                }
+            }
+        }
         return image;
     }
 };
