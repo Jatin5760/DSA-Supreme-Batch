@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1652-defuse-the-bomb](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1652-defuse-the-bomb) |
 | [1675-minimize-deviation-in-array](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1675-minimize-deviation-in-array) |
+| [2050-parallel-courses-iii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2050-parallel-courses-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2104-sum-of-subarray-ranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2050-parallel-courses-iii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2050-parallel-courses-iii) |
 ## Queue
 |  |
 | ------- |
@@ -747,10 +749,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/1971-find-if-path-exists-in-graph) |
+| [2050-parallel-courses-iii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/0802-find-eventual-safe-states) |
+| [2050-parallel-courses-iii](https://github.com/Jatin5760/DSA-Supreme-Batch/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
